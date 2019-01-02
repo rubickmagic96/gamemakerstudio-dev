@@ -1,0 +1,1 @@
+global.scr = 0
